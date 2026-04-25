@@ -39,7 +39,7 @@ The app allows users to manage their profile and projects with modern UI and use
 
 ## 📦 APK Download
 
-(Add Google Drive link here)
+[Download APK](https://drive.google.com/file/d/1yBs_cCKZPyi4HP2welF7M7jveeFUF1xM/view?usp=drive_link)
 
 ---
 
