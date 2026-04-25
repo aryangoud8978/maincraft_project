@@ -30,7 +30,10 @@ The app allows users to manage their profile and projects with modern UI and use
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+![Profile](profileScreen.png)
+![Projects](ProjectTab.png)
+![Add Button](addButton.png)
+![Dark Mode](darkTheme.png)
 
 ---
 
